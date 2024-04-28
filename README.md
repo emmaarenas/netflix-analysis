@@ -1,4 +1,4 @@
-# Netflix Dataset Analysis with Python
+# Netflix Dataset Analysis with R
 
 This repository contains `Jupyter Notebooks` for detailed analysis of the Netflix titles dataset using `R programming language`. The dataset offers a comprehensive overview of the diverse selection of movies and TV shows available on Netflix, providing rich details on various aspects of media offerings. This data is instrumental for in-depth analysis, making it an invaluable resource for media analysts, content strategists, and digital entertainment researchers.
 
